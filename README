@@ -1,0 +1,28 @@
+Rotozoomer demo using Direct3D 9 in MFC/C++.
+2010-11-09
+GitHub repo: GitHub repo: https://github.com/spoulson/Rotozoomer
+Shawn Poulson, http://explodingcoder.com
+
+1. INTRODUCTION
+========================================
+Working demo of a realtime rotozoomer rendering algorithm.
+See: http://explodingcoder.com/blog/content/how-render-2d-directx-lets-try-rotozoomer
+
+2. SYSTEM REQUIREMENTS
+========================================
+Development requirements:
+Visual Studio 2010
+DirectX SDK June 2010 or newer: http://www.microsoft.com/downloads/en/details.aspx?displaylang=en&FamilyID=3021d52b-514e-41d3-ad02-438a3ba730ba
+
+Runtime requirements:
+DirectX Runtime June 2010 or newer: http://www.microsoft.com/downloads/en/details.aspx?familyid=2DA43D38-DB71-4C1B-BC6A-9B6652CD92A3&displaylang=en
+
+3. KNOWN ISSUES
+========================================
+None reported at the time of release.
+See GitHub repo for issue tracking.
+
+4. LICENSING
+========================================
+This rotozooner demo is an open source project licensed under the Creative Commons Attribution license:
+http://creativecommons.org/licenses/by/3.0/legalcode.
