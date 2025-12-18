@@ -8,6 +8,8 @@ Shawn Poulson, http://explodingcoder.com
 Working demo of a realtime rotozoomer rendering algorithm.
 See: http://explodingcoder.com/blog/content/how-render-2d-directx-lets-try-rotozoomer
 
+Video capture: https://youtu.be/SeaeYCoGy7M
+
 2. SYSTEM REQUIREMENTS
 ========================================
 Development requirements:
@@ -26,3 +28,4 @@ See GitHub repo for issue tracking.
 ========================================
 This rotozooner demo is an open source project licensed under the Creative Commons Attribution license:
 http://creativecommons.org/licenses/by/3.0/legalcode.
+
